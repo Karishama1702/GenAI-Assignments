@@ -39,3 +39,15 @@ This automation scans a Google Sheet of job applications and sends follow-up ema
 ### Trigger:
 The script runs daily using a time-driven trigger.
 
+### Screenshots
+
+#### Google Sheets 
+![Google Sheets Screenshot](Applied.png)
+![Google Sheets Screenshot](FollowedUp.png)
+
+
+#### Google Apps Script
+![Apps Script Screenshot](GoogleSheets.png)
+
+#### Emails Sent
+![Apps Script Screenshot](Emails.png)
